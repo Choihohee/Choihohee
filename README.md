@@ -1,7 +1,6 @@
-### 🍀public  class Hohee🍀
+<div align=center><h1>🍀public  class Hohee🍀</h1></div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=호희's%20개발%20회고록&fontSize=50&animation=twinkling&fontAlignY=40&desc=Backend&descAlignY=63&descAlign=75)
-<div align=align><h1>📚 STACKS</h1></div>
+<div align=align><h2>📚 STACKS</h2></div>
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
