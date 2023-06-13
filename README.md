@@ -1,6 +1,6 @@
 <div align=left><h1>🍀public class Hohee🍀</h1></div> 
 
-![Choihohee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choihohee&show_icons=true&theme=tokyonight)
+
 
 <div align=left><h2>📚 STACKS</h2></div>
 <div align=left> 
