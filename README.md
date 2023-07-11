@@ -1,6 +1,6 @@
 <div align=left><h1>public class Hohee🍀</h1></div> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choihohee)](https://github.com/Choihohee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choihohee&theme=dark)](https://github.com/Choihohee/github-readme-stats)
 
 <div align=left><h2>📚 STACKS</h2></div>
 <div align=left> 
