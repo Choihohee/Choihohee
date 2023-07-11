@@ -6,7 +6,7 @@
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F ?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000 ?style=for-the-badge&logo=Oracle&logoColor=red">
+  <img src="https://img.shields.io/badge/Oracle-F00000 ?style=for-the-badge&logo=Oracle&logoColor=red">
   <br>
    
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
