@@ -2,8 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choihohee&theme=dark)](https://github.com/Choihohee/github-readme-stats)
 
-<div align=left><h2>📚 STACKS</h2></div>
-<div align=left> 
+<div align=middle><h2>📚 STACKS</h2></div>
+<div align=middle> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F ?style=for-the-badge&logo=SpringBoot&logoColor=white">
