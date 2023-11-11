@@ -1,8 +1,9 @@
+
 ![hohee_readme_header](https://github.com/Choihohee/Choihohee/assets/117076823/c5ddfb5b-5f65-46df-b96f-5bd593fe87c7)
 
-<h3>Hi there!🍀
-I'm Choihohee.  I wanna be the Beck-End Programmer.
-This is My Study record.</h3>
+Hi there!🍀<br/>
+I'm Choihohee and studying Back-end Stack <br/>
+This is My Study record
 
 ***
 
