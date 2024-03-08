@@ -1,8 +1,7 @@
 
 ![hohee_readme_header](https://github.com/Choihohee/Choihohee/assets/117076823/c5ddfb5b-5f65-46df-b96f-5bd593fe87c7)
 
-Hi there!🍀<br/>
-This is My Study record
+<h3>Hello, this is a place for studying development</h3>
 
 ***
 
