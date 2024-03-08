@@ -7,7 +7,7 @@ This is My Study record
 ***
 
 <a> 
-   <div align=left><h3>🫧 MyStacks</h3></div>
+   <div align=left><h2>🫧 MyStacks</h2></div>
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -17,11 +17,11 @@ This is My Study record
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
-<h3>📃Study Log</h3>
+<h2>📃Study Log</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choihohee&layout=compact)
 
-<h3>💻Connect with Me</h3>
+<h2>💻Connect with Me</h2>
 
 **Blog**: <https://holmol.tistory.com/><br/>
 **email**: <hoheeindaeyo@google.com>
