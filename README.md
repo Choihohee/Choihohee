@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
-
+<br>
 <h2>📃My Projects</h2>
 
 **🌿키워유**<br>
@@ -34,14 +34,14 @@ Repo:<https://github.com/orgs/StudyHunter/repositories>
 **🏄🏼‍♂️Chill Sports**<br>
 '안양시 체육시설업 현황' 공공데이터를 활용한 안양시 체육시설업체 관리 및 예약 웹서비스<br>
 Repo:<https://github.com/Choihohee/DBP_project_ChillSports>
-<br>
+<br><br>
   
 <h2>💻Connect with Me</h2>
 
 **Blog**: <https://holmol.tistory.com/><br/>
 **email**: <hoheeindaeyo@google.com>
 
-
+<br>
 <h2>📃Study Log</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choihohee&layout=compact)
