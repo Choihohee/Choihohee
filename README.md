@@ -13,24 +13,24 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
-<br>
+<br><br>
 
 <h2>📃My Projects</h2>
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
 | **🌿키워유** | 만다라트 계획표를 기반으로 데일리 루틴 정립을 통해 유저의 목표 달성을 조력하는 웹서비스 | [키워유](https://github.com/SWYG-4th-team11) |
-| **👶🏼QP(:QuestPartner)** | 스터디 메이트 매칭을 통해 스터디를 진행하고 누적시간에 따른 코인으로 트리를 꾸밀 수 있는 웹서비스 | [QP](https://github.com/orgs/StudyHunter/repositories) |
+| **👶🏼QP(QuestPartner)** | 스터디 메이트 매칭을 통해 스터디를 진행하고 누적시간에 따른 코인으로 트리를 꾸밀 수 있는 웹서비스 | [QP](https://github.com/orgs/StudyHunter/repositories) |
 | **🏄🏼‍♂️Chill Sports** | '안양시 체육시설업 현황' 공공데이터를 활용한 안양시 체육시설업체 관리 및 예약 웹서비스 | [ChillSports](https://github.com/Choihohee/DBP_project_ChillSports) |
 
-<br>
+<br><br>
 
 <h2>💻Connect with Me</h2>
 
 **Blog**: <https://holmol.tistory.com/><br/>
 **email**: <hoheeindaeyo@google.com>
 
-<br>
+<br><br>
 
 <h2>📃Study Log</h2>
 
