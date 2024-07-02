@@ -28,7 +28,7 @@
 <h2>💻Connect with Me</h2>
 
 **Blog**: <https://holmol.tistory.com/><br/>
-**email**: <hoheeindaeyo@google.com>
+**email**: <lovelove4927@naver.com>
 
 <br>
 
