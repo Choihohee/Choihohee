@@ -3,7 +3,7 @@
 <h3>Hello, this is a place for studying development</h3>
 <br>
 <div align="left">
-  <h2>🫧 MyStacks</h2>
+  <h2>🫧 My Stacks</h2>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
@@ -35,7 +35,7 @@
 <h2>💻Connect with Me</h2>
 
 **Blog**: <https://holmol.tistory.com/><br/>
-**email**: <lovelove4927@naver.com>
+**email**: <hh4187@naver.com>
 
 <br>
 
