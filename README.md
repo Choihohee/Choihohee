@@ -1,5 +1,5 @@
 <div align="left">
-  <h2>🛠️ My Stacks</h2>
+  <h2>🛠️ Stacks</h2>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -21,26 +21,22 @@
 
 </div>
 <br>
-<h2>📃My Projects</h2>
+<h2>📃 Projects</h2>
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
 | **🌿키워유** | 만다라트 계획표를 기반으로 데일리 루틴 정립을 통해 유저의 목표 달성을 조력하는 웹서비스 | [키워유](https://github.com/SWYG-4th-team11) |
-| **👶🏼QP:QuestPartner** | 스터디 메이트 매칭을 통해 스터디를 진행하고 누적시간에 따른 코인으로 트리를 꾸밀 수 있는 웹서비스 | [QP](https://github.com/orgs/StudyHunter/repositories) |
+| **🍱EatDa 잇다** | 결식아동들을 위해 무료급식을 제공하는 가게를 쉽게 찾을 수 있도록 지원하는 서비스 | 진행중 |
 | **🏄🏼‍♂️Chill Sports** | '안양시 체육시설업 현황' 공공데이터를 활용한 안양시 체육시설업체 관리 및 예약 웹서비스 | [ChillSports](https://github.com/Choihohee/DBP_project_ChillSports) |
-| **🍱EatDa** | 결식아동들을 위해 무료급식을 제공하는 가게를 쉽게 찾을 수 있도록 지원하는 서비스 | 진행중 |
+| **👶🏼QuestPartner** | 스터디 메이트 매칭을 통해 스터디를 진행하고 누적시간에 따른 코인으로 트리를 꾸밀 수 있는 웹서비스 | [QP](https://github.com/orgs/StudyHunter/repositories) |
 
 <br>
-<table>
-  <tr>
-    <td style="padding-right: 20px; vertical-align: top;">
-      <h2>💻Connect with Me</h2>
-      <strong>Blog</strong>: <a href="https://holmol.tistory.com/">https://holmol.tistory.com/</a><br>
-      <strong>Email</strong>: <a href="mailto:hh4187@daum.net">hh4187@daum.net</a>
-    </td>
-    <td style="vertical-align: top;">
-      <h2>📃Study Log</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choihohee&layout=compact" alt="Top Langs">
-    </td>
-  </tr>
-</table>
+<h2>💻Connect with Me</h2>
+**Blog**: <https://holmol.tistory.com/><br/>
+**email**: <hh4187@daum.net>
+
+<br>
+
+<h2>📃Study Log</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choihohee&layout=compact)
