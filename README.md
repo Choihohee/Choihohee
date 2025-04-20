@@ -6,7 +6,6 @@
 | **🌿키워유** | 계획표를 기반으로 사용자의 목표 달성을 조력하는 웹 서비스 | [키워유](https://github.com/Choihohee/kiwoyu) |
 | **🏄🏼‍♂️Chill Sports** | 공공데이터 OPEN API를 활용한 안양시 체육시설업 관리 및 예약 웹 서비스 | [ChillSports](https://github.com/Choihohee/ChillSports) |
 | **👶🏼QP** | 스터디 메이트 매칭과 보상을 통해 사용자의 공부 의지를 향상시켜주는 웹 서비스 | [QP](https://github.com/Choihohee/QP) |
-| **🤜🏼🤛🏼SpoClub** | 경기 관람 및 경기 상대 매칭 웹 서비스 | [SpoClub](https://github.com/Choihohee/SpoClub) |
 
 <br>
 <div align="left">
